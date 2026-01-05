@@ -1,0 +1,15 @@
+# Dynamic
+
+- type: latheRecipePack
+  id: CytologyBoards
+  recipes:
+  - CytologyGrowingVatMachineCircuitboard
+  - CytologyMicroscopeMachineCircuitboard
+  - CytologySampleCombinatorMachineCircuitboard
+
+- type: latheRecipePack
+  id: CytologyEquipment
+  recipes:
+  - CytologySwab
+  - CytologyInjector
+  - CytologyPetriDish
